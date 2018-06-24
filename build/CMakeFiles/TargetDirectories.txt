@@ -1,0 +1,3 @@
+/Users/isaaclewis/Documents/C++Projects/handControl/build/CMakeFiles/rebuild_cache.dir
+/Users/isaaclewis/Documents/C++Projects/handControl/build/CMakeFiles/edit_cache.dir
+/Users/isaaclewis/Documents/C++Projects/handControl/build/CMakeFiles/face.dir

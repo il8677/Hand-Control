@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 3.10)
+project( face )
+set(CMAKE_BUILD_TYPE RelWithDebInfo)
+find_package(OpenCV REQUIRED)
+include_directories(${OpenCV_INCLUDE_DIRS})
+add_executable ( face main.cpp)
+target_link_libraries( face ${OpenCV_LIBS} )
